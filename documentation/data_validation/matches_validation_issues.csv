@@ -1,0 +1,6 @@
+﻿row_in_csv,MatchID,Season,Date,HomeTeam,AwayTeam,issue,detail
+3368,3367,2000/01,2000-10-14,Coventry,Tottenham,HOME_SHOTS_MISMATCH,Shots on target exceed shots
+3605,3604,2000/01,2001-04-13,Bradford,Charlton,HOME_SHOTS_MISMATCH,Shots on target exceed shots
+3368,3367,2000/01,2000-10-14,Coventry,Tottenham,AWAY_SHOTS_MISMATCH,Shots on target exceed shots
+3605,3604,2000/01,2001-04-13,Bradford,Charlton,AWAY_SHOTS_MISMATCH,Shots on target exceed shots
+11276,11275,2021/22,2021-08-15,Newcastle,West Ham,AWAY_SHOTS_MISMATCH,Shots on target exceed shots
